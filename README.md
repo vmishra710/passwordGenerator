@@ -1,4 +1,5 @@
 # passwordGenerator
+Live: https://vmishra710.github.io/passwordGenerator/
 1. This project is a Password Generator, which is a web-based application that generates a random password for the user
 based on certain criteria. It is built using HTML, CSS, and JavaScript.
 2. The application has a user interface that allows the user to select the length of the password, whether to include
